@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0",
+  "package": "com.nak.replacement",
+  "offline_runtime": true,
+  "internet_permission": false,
+  "unit_images_extracted": 62,
+  "data_sets": {
+    "nokia_rf": [
+      "Replacement Matrix",
+      "Unit Master"
+    ],
+    "ericsson_rf": [
+      "Replacement Matrix",
+      "Dual-Band Alternatives"
+    ],
+    "nokia_system": [
+      "System Module Master",
+      "Replacement Matrix"
+    ],
+    "ericsson_system": [
+      "System Module Master",
+      "Replacement Matrix"
+    ]
+  },
+  "sha256": {
+    "data.js": "2dea2d1771f6c7ac4ae8e3f31d330a0bb66319408a2a157847bfcd7c664927ca",
+    "app.js": "dee16bc9a54e3b9111059c4d50cd1f6bc4034f5cf15625a0ad39fa4d52068886",
+    "styles.css": "05dd7b3ccb2fc77ddbcee0bb32f0ba56b3ceef77b9a0c9e36ee948574a32ba48",
+    "index.html": "2b71a6494c4f98e22a59bacf7fd20eac4cc2e06e76d110b1f13f442a9f4beb83"
+  }
+}
