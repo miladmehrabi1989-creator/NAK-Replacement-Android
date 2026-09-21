@@ -1,0 +1,12 @@
+NAK Replacement Engineering Tool — Android v1.4.1
+
+- Added Login_Background.mp4 and Selection_Background.mp4 as local looping video backgrounds.
+- Added poster-image fallback for both videos.
+- Added explicit Admin and View login behaviour (View password: 123456).
+- Added Admin-only local catalogue management: Add, Modify and Remove.
+- Added optional photo selection and local device persistence for managed items.
+- Existing Nokia/Ericsson compatibility data and embedded unit images remain offline.
+
+Items added through the Android administrator catalogue do not create replacement
+approvals automatically. They are locally managed reference items and still
+require engineering review before use as a replacement.
